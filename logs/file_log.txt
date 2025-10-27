@@ -1,0 +1,11 @@
+2025-10-27 17:17:50.583643 - New file detected: testfile.txt
+2025-10-27 17:17:51.026394 - New file detected: testfile.txt
+2025-10-27 17:18:25.607822 - File changed: testfile.txt
+2025-10-27 17:18:26.054310 - File changed: testfile.txt
+2025-10-27 17:18:55.642359 - New file detected: testfile2.txt
+2025-10-27 17:18:56.071972 - New file detected: testfile2.txt
+2025-10-27 17:19:01.079306 - File changed: testfile2.txt
+2025-10-27 17:19:05.670211 - File changed: testfile2.txt
+2025-10-27 17:19:06.089099 - File changed: testfile2.txt
+2025-10-27 17:19:10.679577 - File changed: testfile2.txt
+2025-10-27 17:19:11.098404 - File changed: testfile2.txt
